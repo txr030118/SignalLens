@@ -4,7 +4,7 @@
 
 A multi-agent LLM system that reads a conversation and pulls out the signals underneath the words: **emotion, intent, communication style, consistency and risk**.
 
-🔗 **Live demo:** [https://signallens-ai.streamlit.app  *(replace with your deployed URL)*](https://signallens1.streamlit.app/) **
+🔗 **Live demo:** [https://signallens-ai.streamlit.app]**
 
 ---
 
